@@ -1,0 +1,2 @@
+# Zhihu_LQY_IMAGES_TMP
+用于暂时存放zhihu专栏图片，方便把图片链接放入markdown并上传到知乎草稿箱
